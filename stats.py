@@ -20,3 +20,7 @@ def count_chars():
             char_count[char] = 1
     return char_count
 
+def sort_on(count_chars):
+    cc = count_chars
+    return cc
+

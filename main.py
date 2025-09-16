@@ -1,5 +1,6 @@
 from stats import word_count 
 from stats import count_chars
+from stats import sort_on
 
 def main():
     wc = word_count()
